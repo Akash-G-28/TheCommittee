@@ -7,6 +7,11 @@ The default voting committee is Wallet, Future Me, and Chaos. At intake, users c
 with Skeptic (evidence and assumptions) or Heart (values and relationships). The Chairperson is a
 non-voting synthesis role, so each decision still has three peer votes.
 
+<p align="center">
+  <img src="docs/images/dashbaord.png" width="49%">
+  <img src="docs/images/decision_engine.png" width="49%">
+</p>
+
 ## Backend development
 
 The backend requires Python 3.12 or newer.
