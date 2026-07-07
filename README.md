@@ -8,7 +8,7 @@ with Skeptic (evidence and assumptions) or Heart (values and relationships). The
 non-voting synthesis role, so each decision still has three peer votes.
 
 <p align="center">
-  <img src="docs/images/dashbaord.png" width="49%">
+  <img src="docs/images/dashboard.png" width="49%">
   <img src="docs/images/decision_engine.png" width="49%">
 </p>
 
