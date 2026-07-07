@@ -1,0 +1,2 @@
+"""The Committee backend package."""
+

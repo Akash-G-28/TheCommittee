@@ -1,0 +1,33 @@
+[
+  {
+    "id": "purchase-chair",
+    "category": "purchase",
+    "question": "Should I spend 28,000 on an ergonomic chair?",
+    "context": "I work from home and currently have back discomfort."
+  },
+  {
+    "id": "travel-solo",
+    "category": "travel",
+    "question": "Should I try a solo weekend trip?",
+    "context": "The trip is affordable and can be cancelled."
+  },
+  {
+    "id": "career-course",
+    "category": "career",
+    "question": "Should I take a six-week career course?",
+    "context": "It teaches a skill used in roles I want next year."
+  },
+  {
+    "id": "fitness-routine",
+    "category": "fitness",
+    "question": "Should I begin strength training twice a week?",
+    "context": "My doctor has not identified any restrictions."
+  },
+  {
+    "id": "ambiguous-invitation",
+    "category": "ambiguous",
+    "question": "Should I accept the invitation?",
+    "context": "I feel curious but do not yet know the time commitment."
+  }
+]
+
